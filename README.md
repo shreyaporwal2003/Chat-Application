@@ -27,3 +27,10 @@ It supports instant two-way communication, user join/leave notifications, and a 
 
 ---
 
+## 🔮 Future Enhancements
+
+- Private messaging / user-to-user chat
+- Chat history persistence with database
+- Authentication and authorization
+- File/image sharing support
+
